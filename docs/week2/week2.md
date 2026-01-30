@@ -1,4 +1,4 @@
-# Week 2 – [Excel] - 15/10/2025
+# Week 2 – [Excel-1] - 15/10/2025
 
 ## 1) Ders Notları
 - Değişken Tipleri: 
@@ -8,7 +8,7 @@
     - Ordinal(Sıralı): Sabit aralıklarla artan değerler için kullanılır. Mesela 1 den 5'e mutlulğu ölçen değişkenler bu değişken ile kullanılır.
 
 - Excelde matematiksel işlemler ve formüller anlatıldı.
-
+- Sum, Avarage, IF, IFS fonksiyonları işlendi.
 
 
 ## 2) Kod / Komutlar
@@ -18,7 +18,3 @@
 
 
 ## 4) Açık Sorular / Yapılacaklar
-
-
-## 5) Alıştırmalar ve Yanıtlar
-

@@ -20,6 +20,3 @@ Sayı cinsinden temsil edilmiş özelliklerdir.
 
 ## 4) Açık Sorular / Yapılacaklar
 
-
-## 5) Alıştırmalar ve Yanıtlar
-

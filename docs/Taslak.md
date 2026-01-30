@@ -14,7 +14,3 @@
 
 ## 4) Açık Sorular / Yapılacaklar
 - [Soru veya görev]
-
-## 5) Alıştırmalar ve Yanıtlar
-[Soru] → [Yanıt / not]
-[Soru] → [Yanıt / not]
