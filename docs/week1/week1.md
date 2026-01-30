@@ -1,9 +1,6 @@
 # Week 1 – [Giriş Dersi] - 08/10/2025
 
-## 1) Özet
-
-
-## 2) Ders Notları
+## 1) Ders Notları
 ### Veri Bilimi Nedir?
 Veri bilimi, büyük ve çeşitli verilerden anlamlı bilgi ve öngörüler üretmek için istatistik, bilgisayar bilimi
 ve yapay zekâ yöntemlerini bütünleştiren disiplinler arası bir alandır.
@@ -15,15 +12,14 @@ Sayı cinsinden temsil edilmiş özelliklerdir.
 İstatistiğin konusu olmakla birlikte mantıksal bir ifadedir.
 
 
-
-## 3) Kod / Komutlar
-
-
-## 4) Bağlantılar / Kaynaklar
+## 2) Kod / Komutlar
 
 
-## 5) Açık Sorular / Yapılacaklar
+## 3) Bağlantılar / Kaynaklar
 
 
-## 6) Alıştırmalar ve Yanıtlar
+## 4) Açık Sorular / Yapılacaklar
+
+
+## 5) Alıştırmalar ve Yanıtlar
 
