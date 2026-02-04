@@ -1,4 +1,4 @@
-# Week 2 – [Excel-1] - 15/10/2025
+# Week 2 – [Veri ve Değişken Tipleri Excel ile Veri Girişi, Düzenlemesi ve Analizi] - 15/10/2025
 
 ## 1) Ders Notları
 - Değişken Tipleri: 

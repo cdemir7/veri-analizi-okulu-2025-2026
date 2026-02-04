@@ -1,4 +1,4 @@
-# Week 3 – [Excel-2] - 22/10/2025
+# Week 3 – [Excel ile Veri Düzenlemesi, Analizi ve Görselleştirilmesi] - 22/10/2025
 
 ## 1) Ders Notları
 - CTRL + Shift + Aşağı yön tuşu : Bir sütunun tamamını seçmeni sağlar.

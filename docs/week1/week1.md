@@ -1,4 +1,4 @@
-# Week 1 – [Giriş Dersi] - 08/10/2025
+# Week 1 – [İstatistik ve Veri Analizine Genel Giriş] - 08/10/2025
 
 ## 1) Ders Notları
 ### Veri Bilimi Nedir?
